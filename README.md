@@ -12,4 +12,5 @@ The task was to prepare an employee dataset (Employee_Data) for analysis by chec
 
 
 Objective.
-Produce a clean DataFrame in which each employee appears only once per hire record, with only relevant columns and a continuous index and export result as a csv file(HR Data.csv).
+
+Produce a clean DataFrame in which each employee appears only once, with only relevant columns and a continuous index and export result as a csv file(HR Data.csv).
