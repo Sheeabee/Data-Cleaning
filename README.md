@@ -8,5 +8,8 @@ The task was to prepare an employee dataset (Employee_Data) for analysis by chec
 
 <img width="1720" height="927" alt="Screenshot 2026-11-04 195050" src="https://github.com/user-attachments/assets/4cc721c1-7dfe-40d1-94d7-0945da76f260" />
 
+<img width="1782" height="907" alt="Screenshot 2026-11-04 195132" src="https://github.com/user-attachments/assets/02819caf-e159-40ea-93e6-d26f614dce65" />
+
+
 Objective.
 Produce a clean DataFrame in which each employee appears only once per hire record, with only relevant columns and a continuous index and export result as a csv file(HR Data.csv).
